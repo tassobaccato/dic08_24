@@ -1,0 +1,5 @@
+.pytest_cache
+file.py
+file_2.py
+.idea
+venv
