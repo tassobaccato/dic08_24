@@ -3,3 +3,4 @@ file.py
 file_2.py
 .idea
 venv
+__pycache__
