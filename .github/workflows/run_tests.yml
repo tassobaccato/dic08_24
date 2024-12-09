@@ -8,7 +8,8 @@ on:
                 description: select tests to run
                 required: true
                 type: choice
-                default: alloptions:
+                default: all
+                options:
                     - all
 jobs:
     run-tests:
