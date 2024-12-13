@@ -3,9 +3,9 @@ import pytest
 
 @pytest.fixture()
 def before_after():
-    print('Before test')
+    print('Before tests')
     yield
-    print('\nAfter test')
+    print('\nAfter tests')
 
 
 def test_demo1():

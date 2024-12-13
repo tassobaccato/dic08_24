@@ -5,3 +5,7 @@ file_2.py
 venv
 __pycache__
 file_3.py
+variabile.py
+run2_tests.yml
+.github/workflows/run3_tests.yml
+run_allure_tests.yml
