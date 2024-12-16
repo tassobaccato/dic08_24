@@ -10,3 +10,4 @@ run2_tests.yml
 .github/workflows/run3_tests.yml
 allure_to.yml
 run_tests.yml
+allure-results
